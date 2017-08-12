@@ -1,0 +1,12 @@
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\Content\Paddle.png
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\PongClone.exe
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\PongClone.pdb
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\NVorbis.dll
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\OpenTK.dll
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\obj\x86\Debug\PongClone.csprojResolveAssemblyReference.cache
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\obj\x86\Debug\PongClone.exe
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\obj\x86\Debug\PongClone.pdb
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\Content\Ball.png
+D:\Projects portfolio\VisualStudioProjects\PongClone\PongClone\bin\DesktopGL\x86\Debug\Content\GameFont.xnb
